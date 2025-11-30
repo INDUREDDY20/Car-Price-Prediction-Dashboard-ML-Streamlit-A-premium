@@ -65,5 +65,5 @@ The app uses a **Multiple Linear Regression** model:
 
 ---
 
-## 📁 Repository Structure
+
 
